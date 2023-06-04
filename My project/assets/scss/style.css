@@ -1,0 +1,24 @@
+body header nav div img {
+  width: 10%;
+  height: 10%;
+}
+body header nav div ul li {
+  list-style: none;
+}
+body header nav div ul li a {
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+}
+body header nav div ul li:hover a {
+  color: black;
+}
+
+ul li {
+  list-style: none;
+}
+ul li a {
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+}/*# sourceMappingURL=style.css.map */
