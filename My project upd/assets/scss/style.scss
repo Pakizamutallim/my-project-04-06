@@ -1,0 +1,87 @@
+body {
+    .container-fluid{
+        .heading{
+            .item{
+                height: 90vh;
+                // height: 100vh;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                .text{
+                    display: flex;
+                    flex-direction: column;
+                    text-align: center;
+                    justify-content: center;
+                    height: 80vh;
+                    h1{
+                        color: $color-white;
+                        font-size: 50px;
+                    }
+                }
+            }
+            .item-1{
+                background-image: url('https://preview.colorlib.com/theme/server/images/hero_bg_1.jpg.webp');
+            }
+            .item-2{
+                background-image: url('https://preview.colorlib.com/theme/server/images/hero_bg_2.jpg.webp');
+            }
+            .item-3{
+                background-image: url('https://preview.colorlib.com/theme/server/images/hero_bg_2.jpg.webp');
+            }
+            
+        }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    // header{
+    //      nav{
+    //          div{
+    //              img{
+    //                  width: 10%;
+    //                  height: 10%;
+    //              }
+    //              ul {
+    //                  li{
+    //                      list-style: none; 
+    //                      a{
+    //                          text-decoration: none;
+    //                          color: black;
+    //                          font-family: sans-serif;
+    //                      }
+    //                  }
+    //                  // li:hover{ 
+    //                  //     background-color: grey
+    //                  // }
+    //                  li:hover a{
+    //                      color:  black;
+    //                  }
+    //              }
+    //          }
+    //          div{
+    //              button{
+    //                  a{
+    //                      text-decoration: none;
+    //                  }
+    //              }
+    //          }
+    //      }
+    //  } 
+}
+
+// ul {
+//     li{
+//         list-style: none; 
+//         a{
+//             text-decoration: none;
+//             color: black;
+//             font-family: sans-serif;
+//         }
+//     }
+// 
